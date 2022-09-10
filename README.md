@@ -1,4 +1,4 @@
-# Flash Chat Using Firebase
+# Chat App Using Firebase
 
 A new Flutter project.
 
